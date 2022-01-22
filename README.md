@@ -1,5 +1,6 @@
 # RendezvousProblem
 A MATLAB implementation of the Rendezvous problem. 
+
 Problem Definition: 
   - Agents are assumed to have omni-directional sensing range (i.e., a circle)
   - Information exchange between agents are bi-directional
